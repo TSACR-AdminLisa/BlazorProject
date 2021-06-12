@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Blazor_HelloWorld/.vs/Blazor_HelloWorld/config/applicationhost.config
+/Blazor_HelloWorld/.vs/Blazor_HelloWorld/v16/.suo
+bin
+obj
+packages
